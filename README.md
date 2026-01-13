@@ -1,5 +1,5 @@
-# SFI
-Straight Forward Info - sensors + cpu + mem info
+# SSi
+Shell Sensor Info - sensors + cpu + mem info
 
 ![](./SFI.jpg)
 
